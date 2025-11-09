@@ -1,5 +1,7 @@
 # customer_behavior_analysis
 Data Analytics project showcasing customer behavior analysis using python, SQL and power Bi
+
+
 📌 Project Overview
 The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
 
@@ -13,12 +15,16 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 Project Workflow
 
+
+
+
+![Uploading image.png…]()
+
+
 🛠️ How to Use This Project
 Clone the repository
 
-git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
-cd customer-trends-data-analysis-SQL-Python-PowerBI
-Open Customer_Shopping_Behavior_Analysis.ipynb notebook
+
 
 This file contains:
 
