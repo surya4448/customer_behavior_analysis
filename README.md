@@ -62,3 +62,58 @@ Prepare a detailed project report summarizing findings and business recommendati
 git clone [https://github.com/yourusername](https://github.com/surya4448)]/customer-behavior-data-analytics.git
 cd customer-behavior-data-analytics
 
+## 🚀 Step-by-Step Project Execution
+
+### 🧮 Step 2: Run the Python Notebook
+1. Open **`data_preparation_and_eda.ipynb`**  
+2. Perform:
+   - Data import  
+   - Data cleaning  
+   - Exploratory Data Analysis (EDA)  
+3. Export the cleaned dataset as **`.csv`** file for SQL integration.
+
+---
+
+### 🗃️ Step 3: Load Data into SQL Database
+1. Create a new database in **MySQL / PostgreSQL / MS SQL Server**  
+2. Execute the Python script to load the cleaned dataset into SQL  
+3. Run SQL queries from **`customer_behavior_sql_queries.sql`** to answer business questions.
+
+---
+
+### 📊 Step 4: Build the Power BI Dashboard
+1. Connect **Power BI** to your SQL database  
+2. Open **`customer_behavior_dashboard.pbix`**  
+3. Customize visuals, KPIs, and filters to suit your analysis needs.
+
+---
+
+### 🧾 Step 5: Create the Final Report
+1. Summarize key insights and findings in a **professional report (PDF/DOCX)**  
+2. Design your **presentation deck** using **Gamma AI** or **PowerPoint**  
+3. Present your recommendations to stakeholders.
+
+---
+
+## 🧰 Tech Stack
+
+| Category | Tools / Technologies |
+|-----------|----------------------|
+| **Programming** | Python (Pandas, NumPy, Matplotlib, Seaborn) |
+| **Database** | MySQL / PostgreSQL / MS SQL Server |
+| **Visualization** | Power BI |
+| **IDE / Notebook** | Jupyter Notebook, VS Code |
+| **Documentation** | Gamma AI, PowerPoint, MS Word |
+
+---
+
+## 📈 Key Deliverables
+
+- ✅ Cleaned and transformed dataset  
+- ✅ SQL scripts with analytical queries  
+- ✅ Power BI dashboard (`.pbix` file)  
+- ✅ Final project report and presentation  
+
+---
+
+
