@@ -57,12 +57,14 @@ Prepare a detailed project report summarizing findings and business recommendati
 
 ## 🛠️ How to Use This Project
 
+## 🚀 Step-by-Step Project Execution
+
 ### Step 1: Clone the Repository
 ```bash
 git clone [https://github.com/yourusername](https://github.com/surya4448)]/customer-behavior-data-analytics.git
 cd customer-behavior-data-analytics
 
-## 🚀 Step-by-Step Project Execution
+
 
 ### 🧮 Step 2: Run the Python Notebook
 1. Open **`data_preparation_and_eda.ipynb`**  
